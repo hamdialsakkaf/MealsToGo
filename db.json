@@ -1,4 +1,5 @@
-  antwerp: {
+{
+antwerp: {
     results: [
       {
         geometry: {
@@ -100,4 +101,4 @@
       },
     ],
   }
-
+}
