@@ -1,4 +1,3 @@
-module.exports.locations = {
   antwerp: {
     results: [
       {
@@ -100,5 +99,5 @@ module.exports.locations = {
         },
       },
     ],
-  },
-};
+  }
+
